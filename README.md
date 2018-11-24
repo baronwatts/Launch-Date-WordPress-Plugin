@@ -1,5 +1,5 @@
 # launch_date
-![](preview.gif)
+![](preview.gif)<br>
 WordPress date countdown plugin
 
 1. Install plugin
