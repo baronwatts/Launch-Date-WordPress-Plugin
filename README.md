@@ -1,6 +1,6 @@
 # launch_date
-WordPress date countdown plugin<br>
 ![](preview.gif)
+WordPress date countdown plugin
 
 1. Install plugin
 2. Go to Settings > Launch Date
